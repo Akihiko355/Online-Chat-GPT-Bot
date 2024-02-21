@@ -6,4 +6,4 @@ TOKEN = "Your Discord Bot Token"
 API_KEY = "AI Api Key"
 CHANNEL_ID = "Your Discord Channel ID"
 
-Note : Do not using double quotation mark when put the token, api key, or channel id. 
+Note : Do not using double quotation mark when put the token, api key, or channel id. Just delete the ( " ). 
