@@ -7,3 +7,4 @@ API_KEY = "Open AI Api Key"
 CHANNEL_ID = "Discord Channel ID"
 
 Note : Do not using double quotation mark when put the token, api key, or channel id. Just delete the ( " ). 
+When you want the bot ignore your message, add "!" first on your text. example : !hello
