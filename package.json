@@ -1,14 +1,18 @@
 {
-  "name": "gppt",
+  "name": "Chat GPT Open AI",
   "version": "1.0.0",
-  "description": "",
+  "description": "Chat GPT online bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Akihiko355",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akihiko355/gppt"
+  },
   "dependencies": {
     "discord.js": "^14.14.1",
     "dotenv": "^16.4.5",
